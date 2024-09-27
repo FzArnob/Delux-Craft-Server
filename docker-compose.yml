@@ -6,7 +6,7 @@ services:
       - "25565:25565"
     environment:
       EULA: "TRUE"
-      MEMORY: "2G"
+      MEMORY: "4G"
       ONLINE_MODE: "FALSE"
       MODE: "creative"
       SEED: "4730575252807339304"
